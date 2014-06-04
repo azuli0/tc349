@@ -1,0 +1,44 @@
+@charset "UTF-8";
+#PageTitle{
+	height: 50px;
+	background: #0FF;
+	color: #;
+	text-align:center
+}
+
+#MainHeader{
+	text-align:left;
+}
+
+#HeaderImg{
+	float:left;
+	margin: 5px;
+}
+
+.container{
+	margin: 0 3%;
+}
+
+.imgText{
+	background: #606060;
+	color:#EEEEEE;
+	width: 220px;
+}
+
+h2{
+	margin-top: -5px;
+}
+
+article{
+	width: 220px;
+	height: 287px;
+	float:left;
+	margin: 10px;
+	background: #f3f3f3;
+	border: 1px solid #000000;
+}
+
+section{
+	width: 1080px;
+	margin: 0 auto;
+}
